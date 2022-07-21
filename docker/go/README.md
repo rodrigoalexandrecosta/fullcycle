@@ -11,4 +11,4 @@ The docker image of the challenge can be obtained via:
 
 The self-erasing container running the image can be started with:
 
-> docker run --rm rodrigoalexandrecosta/fullcycle-go-hello-app
+> ```docker run --rm rodrigoalexandrecosta/fullcycle-go-hello-app```
